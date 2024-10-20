@@ -1,0 +1,7 @@
+Flask
+numpy
+pandas
+scikit-learn
+
+# To install all these libraries
+pip install -r requiremnts.txt
